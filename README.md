@@ -1,1 +1,1 @@
-Link to the template files: https://github.com/tomitokko/django-social-media-template
+Social-book is a clone of social media platform instagram.
